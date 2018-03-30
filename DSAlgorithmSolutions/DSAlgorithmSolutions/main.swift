@@ -2,8 +2,8 @@
 //  main.swift
 //  DSAlgorithmSolutions
 //
-//  Created by Veerachamy, Vimal on 3/30/18.
-//  Copyright © 2018 Veerachamy, Vimal. All rights reserved.
+//  Created by MobileLove on 3/30/18.
+//  Copyright © 2018 MobileLove. All rights reserved.
 //
 
 import Foundation
