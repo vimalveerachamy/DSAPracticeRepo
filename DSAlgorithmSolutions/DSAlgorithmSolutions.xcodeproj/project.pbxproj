@@ -23,9 +23,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		1B819CD128C6B5A900B9CEFF /* Backtracking */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Backtracking; sourceTree = "<group>"; };
-		1B819CD228C6B5B900B9CEFF /* Recursion */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Recursion; sourceTree = "<group>"; };
-		1B819CD328C6B5C200B9CEFF /* DynamicProgramming */ = {isa = PBXFileReference; lastKnownFileType = folder; path = DynamicProgramming; sourceTree = "<group>"; };
 		1B819CD428C6B5E000B9CEFF /* Strings */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Strings; sourceTree = "<group>"; };
 		6081C1B2206EB3BC00D1A395 /* DSAlgorithmSolutions */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DSAlgorithmSolutions; sourceTree = BUILT_PRODUCTS_DIR; };
 		6081C1B5206EB3BC00D1A395 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -62,10 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				6081C1B5206EB3BC00D1A395 /* main.swift */,
-				1B819CD228C6B5B900B9CEFF /* Recursion */,
-				1B819CD328C6B5C200B9CEFF /* DynamicProgramming */,
 				1B819CD428C6B5E000B9CEFF /* Strings */,
-				1B819CD128C6B5A900B9CEFF /* Backtracking */,
 			);
 			path = DSAlgorithmSolutions;
 			sourceTree = "<group>";
