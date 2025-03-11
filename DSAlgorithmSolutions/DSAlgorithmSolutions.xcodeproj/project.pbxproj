@@ -14,6 +14,7 @@
 		1BFAF59E2D7CEA3D0038536C /* MinimumRecolors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BFAF59D2D7CEA3B0038536C /* MinimumRecolors.swift */; };
 		1BFAF5A02D7E4E3C0038536C /* NumberOfAlternatingGroups.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BFAF59F2D7E4E390038536C /* NumberOfAlternatingGroups.swift */; };
 		1BFAF5A22D7FEDC40038536C /* CountOfSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BFAF5A12D7FEDBD0038536C /* CountOfSubstrings.swift */; };
+		1BFAF5A42D80FA660038536C /* NumberOfSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BFAF5A32D80FA4F0038536C /* NumberOfSubstrings.swift */; };
 		6081C1B6206EB3BC00D1A395 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6081C1B5206EB3BC00D1A395 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -38,6 +39,7 @@
 		1BFAF59D2D7CEA3B0038536C /* MinimumRecolors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumRecolors.swift; sourceTree = "<group>"; };
 		1BFAF59F2D7E4E390038536C /* NumberOfAlternatingGroups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfAlternatingGroups.swift; sourceTree = "<group>"; };
 		1BFAF5A12D7FEDBD0038536C /* CountOfSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountOfSubstrings.swift; sourceTree = "<group>"; };
+		1BFAF5A32D80FA4F0038536C /* NumberOfSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfSubstrings.swift; sourceTree = "<group>"; };
 		6081C1B2206EB3BC00D1A395 /* DSAlgorithmSolutions */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DSAlgorithmSolutions; sourceTree = BUILT_PRODUCTS_DIR; };
 		6081C1B5206EB3BC00D1A395 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -56,6 +58,7 @@
 		1BFAD0C92D77AB2100C34B45 /* DailyChallenge */ = {
 			isa = PBXGroup;
 			children = (
+				1BFAF5A32D80FA4F0038536C /* NumberOfSubstrings.swift */,
 				1BFAF5A12D7FEDBD0038536C /* CountOfSubstrings.swift */,
 				1BFAF59F2D7E4E390038536C /* NumberOfAlternatingGroups.swift */,
 				1BFAF59D2D7CEA3B0038536C /* MinimumRecolors.swift */,
@@ -153,6 +156,7 @@
 			files = (
 				1BFAF59E2D7CEA3D0038536C /* MinimumRecolors.swift in Sources */,
 				1BFAD0CD2D79219800C34B45 /* ColoredCells.swift in Sources */,
+				1BFAF5A42D80FA660038536C /* NumberOfSubstrings.swift in Sources */,
 				1BFAF5A02D7E4E3C0038536C /* NumberOfAlternatingGroups.swift in Sources */,
 				1BFAD0CF2D7A421F00C34B45 /* FindMissingAndRepeatedValues.swift in Sources */,
 				1BFAF5A22D7FEDC40038536C /* CountOfSubstrings.swift in Sources */,
