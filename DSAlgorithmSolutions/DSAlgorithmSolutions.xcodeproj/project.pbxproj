@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1B565DE92D86086A0006CB0D /* MinCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B565DE82D8608620006CB0D /* MinCapability.swift */; };
+		1B565DEB2D88C3C60006CB0D /* DivideArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B565DEA2D88C3BE0006CB0D /* DivideArray.swift */; };
 		1BFAD0CB2D77AB3A00C34B45 /* CheckPowersOfThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BFAD0CA2D77AB3700C34B45 /* CheckPowersOfThree.swift */; };
 		1BFAD0CD2D79219800C34B45 /* ColoredCells.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BFAD0CC2D79218A00C34B45 /* ColoredCells.swift */; };
 		1BFAD0CF2D7A421F00C34B45 /* FindMissingAndRepeatedValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BFAD0CE2D7A421C00C34B45 /* FindMissingAndRepeatedValues.swift */; };
@@ -33,6 +34,7 @@
 
 /* Begin PBXFileReference section */
 		1B565DE82D8608620006CB0D /* MinCapability.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinCapability.swift; sourceTree = "<group>"; };
+		1B565DEA2D88C3BE0006CB0D /* DivideArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideArray.swift; sourceTree = "<group>"; };
 		1B819CD428C6B5E000B9CEFF /* Strings */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Strings; sourceTree = "<group>"; };
 		1BFAD0CA2D77AB3700C34B45 /* CheckPowersOfThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckPowersOfThree.swift; sourceTree = "<group>"; };
 		1BFAD0CC2D79218A00C34B45 /* ColoredCells.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColoredCells.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 		1BFAD0C92D77AB2100C34B45 /* DailyChallenge */ = {
 			isa = PBXGroup;
 			children = (
+				1B565DEA2D88C3BE0006CB0D /* DivideArray.swift */,
 				1B565DE82D8608620006CB0D /* MinCapability.swift */,
 				1BFAF5A32D80FA4F0038536C /* NumberOfSubstrings.swift */,
 				1BFAF5A12D7FEDBD0038536C /* CountOfSubstrings.swift */,
@@ -157,6 +160,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1B565DEB2D88C3C60006CB0D /* DivideArray.swift in Sources */,
 				1BFAF59E2D7CEA3D0038536C /* MinimumRecolors.swift in Sources */,
 				1BFAD0CD2D79219800C34B45 /* ColoredCells.swift in Sources */,
 				1BFAF5A42D80FA660038536C /* NumberOfSubstrings.swift in Sources */,
